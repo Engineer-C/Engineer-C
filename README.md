@@ -1,6 +1,6 @@
 <h1> Hyunseung Chung </h1>
 
-<p align='center'><i>Your Friendly neighborhood engineer</p><i>
+<p align='center'><i>Your Friendly neighborhood engineer</p></i>
 
 
 🎓 Bachelor of Science in Civil Engineering - Yonsei University
