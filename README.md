@@ -1,17 +1,15 @@
-# Hyunseung Chung
+<h1> Hyunseung Chung </h1>
 
-*Your Friendly neighborhood engineer*
+<p align='center'><i>Your Friendly neighborhood engineer</p><i>
+
 
 🎓 Bachelor of Science in Civil Engineering - Yonsei University
 
-🎓 Master's candidate - KAIST
-
-
-
-
+🎓 Master's course - Korea Advanced Institute of Science and Technology
 
 Contact - hyunseungchung@kaist.ac.kr
 
+---
+<p align='center'><i>I will love thee, O Lord, my strength</p></i>
 
 
-> I will love thee, O Lord, my strength
