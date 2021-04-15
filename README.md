@@ -27,11 +27,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fortran-734F96?style=flat&logo=Fortran&logoColor=white"/></br>
-<img src="https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=Adobe Lightroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat&logo=Adobe InDesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat&logo=Adobe Lightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
