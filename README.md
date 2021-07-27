@@ -6,6 +6,8 @@
 🎓 Bachelor of Science in Civil Engineering - Yonsei University</br>
 🎓 Master's course - Korea Advanced Institute of Science and Technology</br>
 </br>
+🧑‍💻 Sturctural Design Laboratory - sdlab.kaist.ac.kr
+</br>
 </div>
 
 <div>
